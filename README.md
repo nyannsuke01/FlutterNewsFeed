@@ -1,6 +1,7 @@
 # News_Feed
 
 Flutterを使用して作られたニュースアプリ
+(2020/5月頃作成したアプリ)
 
 Android iOS
 
